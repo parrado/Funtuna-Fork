@@ -1,0 +1,3 @@
+[submodule "FreeMcBoot/external/opl"]
+	path = FreeMcBoot/external/opl
+	url = https://github.com/ps2homebrew/Open-PS2-Loader
